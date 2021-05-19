@@ -1,1 +1,2 @@
-let variable = 0;
+let variable = 99;
+console.log(variable);
